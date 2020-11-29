@@ -1,0 +1,4 @@
+1 - b c d g t 
+2 - f h j k l m n p q r s v w x z 
+3 - a 
+4 - e i o u y 
